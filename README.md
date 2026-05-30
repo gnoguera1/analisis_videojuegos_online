@@ -20,6 +20,8 @@ Solución: se corrigieron los tipos de datos para garantizar cálculos y visuali
   * X360: auge en 2010.
 Además, se determinó que la vida promedio de una plataforma es de aproximadamente 16 años.
 3. Se realizaron gráficas comparativas para identificar las plataformas más rentables del mercado actual.
+#### Plataformas más rentables del mercado actual:
+![Ventas totales por plataformas](imagen/plataformas_rentables.png)
 Los resultados muestran que PS4 es actualmente una de las plataformas más rentables.
 Algunas plataformas presentan una clara obsolescencia o se encuentran al final de su ciclo de vida, como es el caso de 3DS, cuya tendencia de ventas se aproxima a cero.
 4. Los géneros con mayor producción de videojuegos fueron: Action, Sports, Misc. Esto refleja una alta demanda y producción dentro de estos géneros.
