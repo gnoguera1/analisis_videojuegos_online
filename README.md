@@ -19,15 +19,19 @@ Solución: se corrigieron los tipos de datos para garantizar cálculos y visuali
   * WII: auge en 2009.
   * X360: auge en 2010.
 Además, se determinó que la vida promedio de una plataforma es de aproximadamente 16 años.
+
 3. Se realizaron gráficas comparativas para identificar las plataformas más rentables del mercado actual.
-#### Plataformas más rentables del mercado actual:
+
 ![Ventas totales por plataformas](imagen/plataformas_rentables.png)
 
-Los resultados muestran que PS4 es actualmente una de las plataformas más rentables.
+Los resultados muestran que PS4 es actualmente una de las plataformas más rentables del mercado.
 
-4. Los géneros más rentables por región:
-   ![Géneros más rentables](imagen/generos_rentables_region.png)
+4. Los géneron más rentables del mercado:
+![géneros más rentables](imagen/ventas_totales_genero.png)
 
-8. En Norteamérica las plataformas más importantes fueron: X360, PS2, WII, PS3 y Ds. Añadiendo que, los géneros más rentables fueron: Action, Sports, Shooter, Platform y Misc.
-9. En Europa las plataformas más importantes fueron: PS2, PS3, X360, WII y DS; donde los géneros más rentables fueron: Action, Sports, Shooter, Rancing y Misc.
-10. En Japón las plataformas más importantes fueron: DS, PS, PS2, SNES y DS y los géneros más rentables fueron: Role-Playing Action, Sports, Platform y Misc.
+6. También se analizaron los géneros por región y las plataformas más rentables por región:
+
+![Géneros más rentables](imagen/generos_rentables_región.png)
+
+
+
