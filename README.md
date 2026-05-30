@@ -32,7 +32,7 @@ Los resultados muestran que PS4 es actualmente una de las plataformas más renta
 
 6. También se analizaron los géneros por región y las plataformas más rentables por región:
 
-![Géneros más rentables por región](imagen/generos_rentables_región.png)
+![Géneros más rentables por región](imagen/generos_rentables_region.png)
 ![plataformas más rentables por región](imagen/plat_rentables_region.png)
 
 
