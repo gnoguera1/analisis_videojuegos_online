@@ -26,7 +26,7 @@ Además, se determinó que la vida promedio de una plataforma es de aproximadame
 Los resultados muestran que PS4 es actualmente una de las plataformas más rentables.
 
 4. Los géneros más rentables por región:
-   ![Géneros más rentables](imagen/generos_rentables_region)
+   ![Géneros más rentables](imagen/generos_rentables_region.png)
 
 8. En Norteamérica las plataformas más importantes fueron: X360, PS2, WII, PS3 y Ds. Añadiendo que, los géneros más rentables fueron: Action, Sports, Shooter, Platform y Misc.
 9. En Europa las plataformas más importantes fueron: PS2, PS3, X360, WII y DS; donde los géneros más rentables fueron: Action, Sports, Shooter, Rancing y Misc.
