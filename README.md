@@ -20,13 +20,13 @@ Solución: se corrigieron los tipos de datos para garantizar cálculos y visuali
   * X360: auge en 2010.
 Además, se determinó que la vida promedio de una plataforma es de aproximadamente 16 años.
 
-3. Se realizaron gráficas comparativas para identificar las plataformas más rentables del mercado actual.
+3. Se realizaron gráficas comparativas para identificar las plataformas más rentables del mercado generañ actual.
 
 ![Ventas totales por plataformas](imagen/plataformas_rentables.png)
 
 Los resultados muestran que PS4 es actualmente una de las plataformas más rentables del mercado.
 
-4. Los géneron más rentables del mercado:
+4. Los géneron más rentables del mercado general:
    
 ![géneros más rentables](imagen/ventas_totales_genero.png)
 
@@ -38,4 +38,4 @@ Los resultados muestran que PS4 es actualmente una de las plataformas más renta
 
 ## Recomendaciones:
 
-Se recomienda priorizar inversiones en los géneros de action, sports y sooter; ya que queda demostrado que son los géneros de juego con mayor rentabilidad en el mercado. 
+Se recomienda priorizar inversiones en los géneros de action, sports y shooter; ya que queda demostrado que son los géneros de juego con mayor rentabilidad en el mercado general. 
