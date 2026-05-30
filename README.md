@@ -22,14 +22,12 @@ Además, se determinó que la vida promedio de una plataforma es de aproximadame
 3. Se realizaron gráficas comparativas para identificar las plataformas más rentables del mercado actual.
 #### Plataformas más rentables del mercado actual:
 ![Ventas totales por plataformas](imagen/plataformas_rentables.png)
+
 Los resultados muestran que PS4 es actualmente una de las plataformas más rentables.
-Algunas plataformas presentan una clara obsolescencia o se encuentran al final de su ciclo de vida, como es el caso de 3DS, cuya tendencia de ventas se aproxima a cero.
-4. Los géneros con mayor producción de videojuegos fueron: Action, Sports, Misc. Esto refleja una alta demanda y producción dentro de estos géneros.
-5. Al analizar las ventas totales, los géneros más exitosos fueron: Action, Sports, Shooter. Un hallazgo importante es que, aunque Shooter posee menos títulos lanzados que otros géneros, logra generar altos ingresos.
-6. Se identificaron diferencias importantes entre cantidad de juegos y rentabilidad promedio:
-  * Action posee una gran cantidad de juegos y buenas ventas generales, pero un promedio de ventas por juego relativamente bajo, ubicándose en el puesto número 6.
-  * Shooter, Platform y Sports presentan mayores ingresos promedio por videojuego.
-7. Los géneros Puzzle y Strategy muestran menores ventas y menos títulos lanzados, posiblemente debido a un público más reducido o especializado.
+
+4. Los géneros más rentables por región:
+   ![Géneros más rentables](imagen/generos_rentables_region)
+
 8. En Norteamérica las plataformas más importantes fueron: X360, PS2, WII, PS3 y Ds. Añadiendo que, los géneros más rentables fueron: Action, Sports, Shooter, Platform y Misc.
 9. En Europa las plataformas más importantes fueron: PS2, PS3, X360, WII y DS; donde los géneros más rentables fueron: Action, Sports, Shooter, Rancing y Misc.
 10. En Japón las plataformas más importantes fueron: DS, PS, PS2, SNES y DS y los géneros más rentables fueron: Role-Playing Action, Sports, Platform y Misc.
