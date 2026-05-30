@@ -27,11 +27,13 @@ Además, se determinó que la vida promedio de una plataforma es de aproximadame
 Los resultados muestran que PS4 es actualmente una de las plataformas más rentables del mercado.
 
 4. Los géneron más rentables del mercado:
+5. 
 ![géneros más rentables](imagen/ventas_totales_genero.png)
 
 6. También se analizaron los géneros por región y las plataformas más rentables por región:
 
-![Géneros más rentables](imagen/generos_rentables_región.png)
+![Géneros más rentables por región](imagen/generos_rentables_región.png)
+![plataformas más rentables por región](imagen/plat_rentables_region.png)
 
 
 
